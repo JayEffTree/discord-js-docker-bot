@@ -1,8 +1,2 @@
 # Installation
- - test
-
-# Links
- - test
-
-# Help
- - test
+ - coming soon
