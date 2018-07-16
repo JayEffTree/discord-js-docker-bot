@@ -1,0 +1,14 @@
+{
+  "name": "discord-dev-bot",
+  "version": "3.2.0",
+  "description": "a simple discord.js bot for docker",
+  "main": "run.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "scripts": {
+    "start": "node run.js"
+  },
+  "author": "TXJ",
+  "license": "ISC"
+}
